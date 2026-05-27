@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrncrypt",
+        "uuid": 12358222,
+        "checksum": "t4mrrm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
